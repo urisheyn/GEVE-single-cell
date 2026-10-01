@@ -34,7 +34,7 @@ They are not stored in this repository.
 | File | Contents | Source |
 |---|---|---|
 | `adata_all_qc.h5ad` | 22,421 QC-filtered cells, all genes, raw counts | NCBI GEO [GSE347098](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE347098) |
-| `adata_hi4_hvg_geve_umap.h5ad` | GEVE > 4 cells with UMAP coordinates and `cluster_hi4` | Zenodo, doi:10.5281/zenodo.XXXXXXX |
+| `adata_hi4_hvg_geve_umap.h5ad` | GEVE > 4 cells with UMAP coordinates and `cluster_hi4` | Zenodo, [doi:10.5281/zenodo.22310362](https://doi.org/10.5281/zenodo.22310362) |
 
 ## Running
 
