@@ -1,0 +1,43 @@
+Gene_ID,Gene_number,Start,End,Strand,BVP_DVP_cluster,Has_NCLDV_promoter,Has_6mA,Has_intron,Virion_protein_accession,NCLDV_marker,Pfam_domain,GVOG_family,EggNOG_description
+GEVEv2_37,37,2082756,2087447,-,BVP,False,False,False,GEVE_74,,Aspartyl protease | Chromo (CHRromatin Organisation MOdifier) domain | gag-polyprotein putative aspartyl protease | Integrase zinc binding domain | RNase H-like domain found in reverse transcriptase | RNase H-like domain found in reverse transcriptase | Integrase core domain | Reverse transcriptase (RNA-dependent DNA polymerase),GVOG01434,DNA RNA polymerases superfamily protein
+GEVEv2_39,39,2090146,2092125,-,DVP,True,False,False,GEVE_76,,,GVOGm0180,function. Source PGD
+GEVEv2_61,61,2110626,2110871,-,DVP,False,False,False,GEVE_100,,,GVOG09246,
+GEVEv2_62,62,2111842,2115344,-,Unclassified,False,False,True,GEVE_100,,Right handed beta helix region | Pectate lyase superfamily protein,,
+GEVEv2_63,63,2115435,2119490,+,DVP,False,False,False,GEVE_101,,Carbohydrate-binding module family 5/12,GVOGm0669,
+GEVEv2_64,64,2119504,2136261,-,DVP,False,False,True,GEVE_102,,Carbohydrate-binding module family 5/12,,
+GEVEv2_68,68,2149090,2153397,-,Unclassified,True,False,False,GEVE_107,,,GVOGm0272,
+GEVEv2_80,80,2165827,2166399,-,DVP,False,False,False,GEVE_120,,,,
+GEVEv2_83,83,2168276,2169325,-,Unclassified,False,False,False,GEVE_123,,,GVOGm0099,
+GEVEv2_87,87,2171379,2173539,+,Unclassified,False,False,True,GEVE_129,,,,
+GEVEv2_88,88,2173555,2177280,-,Unclassified,True,False,False,GEVE_130,,"DNA gyrase B | DNA gyrase/topoisomerase IV, subunit A | Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase | Toprim domain | C-terminal associated domain of TOPRIM",GVOGm0461,Control of topological states of DNA by transient breakage and subsequent rejoining of DNA strands. Topoisomerase II makes double-strand breaks
+GEVEv2_101,101,2194604,2198446,-,DVP,True,False,False,GEVE_144,,SAP domain,GVOGm0180,
+GEVEv2_103,103,2198591,2199811,-,Unclassified,False,False,False,GEVE_146,,DDE superfamily endonuclease | Homeodomain-like domain,GVOGm1077,
+GEVEv2_118,118,2215189,2220978,-,DVP,True,False,False,GEVE_164,RNAPS,"Hom_end-associated Hint | RNA polymerase beta subunit | RNA polymerase Rpb2, domain 2 | RNA polymerase Rpb2, domain 3 | RNA polymerase Rpb2, domain 4 | RNA polymerase Rpb2, domain 6 | RNA polymerase Rpb2, domain 7",GVOGm0022,DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates
+GEVEv2_121,121,2223311,2224111,+,Unclassified,False,False,False,GEVE_167,,Caspase domain,GVOG04776,cysteine-type peptidase activity
+GEVEv2_122,122,2224180,2225740,+,Unclassified,False,False,True,GEVE_168,,RNA polymerases N / 8 kDa subunit,GVOG12725,
+GEVEv2_127,127,2231117,2233705,-,Unclassified,False,False,False,GEVE_176,SFII,,GVOGm0020,
+GEVEv2_128,128,2233832,2234440,+,Unclassified,False,False,False,GEVE_177,,,GVOGm0021,
+GEVEv2_132,132,2236332,2237342,-,Unclassified,False,False,False,GEVE_181,,,GVOGm0056,
+GEVEv2_135,135,2238979,2239575,-,DVP,False,False,False,GEVE_184,,,GVOG08300,
+GEVEv2_152,152,2261906,2262373,-,Unclassified,False,False,False,GEVE_202,,,,
+GEVEv2_201,201,2316206,2319199,-,Unclassified,True,False,False,GEVE_263,mRNAc,"mRNA capping enzyme, catalytic domain | mRNA (guanine-N(7))-methyltransferase domain",GVOGm0036,
+GEVEv2_233,233,2348871,2352707,-,DVP,True,False,False,GEVE_297,,SAP domain,GVOGm0180,
+GEVEv2_265,265,2374129,2374692,+,DVP,False,False,False,GEVE_329,,,,
+GEVEv2_279,279,2387780,2389240,-,DVP,True,False,False,GEVE_343,,,GVOGm0021,
+GEVEv2_284,284,2394187,2394753,+,Unclassified,True,False,False,GEVE_348,,,,
+GEVEv2_288,288,2397099,2399274,+,Unclassified,False,False,True,GEVE_353,,,GVOGm0852,
+GEVEv2_289,289,2398369,2399274,+,Unclassified,False,False,False,GEVE_354,,,,
+GEVEv2_304,304,2408492,2409880,+,DVP,False,False,False,GEVE_370,,,,
+GEVEv2_326,326,2434891,2435934,-,DVP,True,False,False,GEVE_392,,,GVOG00218,
+GEVEv2_329,329,2437393,2439299,+,DVP,True,False,Self-splicing intron,GEVE_395,mcp,Major capsid protein N-terminus | Large eukaryotic DNA virus major capsid protein,GVOGm0003,Large eukaryotic DNA virus major capsid protein
+GEVEv2_348,348,2457228,2458775,+,Unclassified,False,False,False,GEVE_415,,,GVOG10021,
+GEVEv2_371,371,2474473,2475591,-,DVP,False,False,False,GEVE_438,,,GVOG07447,
+GEVEv2_392,392,2493211,2496675,+,Unclassified,False,False,False,GEVE_460,,,,
+GEVEv2_415,415,2518983,2526602,+,Unclassified,True,False,False,GEVE_483,RNAPL,"Intein splicing domain | LAGLIDADG-like domain | RNA polymerase Rpb1, domain 1 | RNA polymerase Rpb1, domain 2 | RNA polymerase Rpb1, domain 3 | RNA polymerase Rpb1, domain 4 | RNA polymerase Rpb1, domain 5 | RNA polymerase Rpb1, domain 6 | RNA polymerase Rpb1, domain 7",GVOGm0023,DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates
+GEVEv2_426,426,2535923,2538620,+,DVP,False,False,True,GEVE_496,,,GVOG01061,
+GEVEv2_431,431,2542099,2542488,-,DVP,False,False,False,GEVE_501,,,GVOG07251,
+GEVEv2_434,434,2545513,2546759,+,DVP,True,False,True,GEVE_504,,,GVOGm0092,
+GEVEv2_447,447,2559874,2560752,+,DVP,True,False,False,GEVE_518,,,GVOG02128,
+GEVEv2_448,448,2560941,2561741,-,DVP,True,False,False,GEVE_519,,,GVOGm1132,
+GEVEv2_456,456,2569900,2575837,-,DVP,False,False,True,GEVE_537,,,GVOG05168,
+GEVEv2_476,476,2598429,2599418,-,DVP,False,False,False,GEVE_558,,,,

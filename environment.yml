@@ -1,0 +1,30 @@
+# Conda environment used to run GEVE_manuscript_figures.ipynb and upstream/*.ipynb
+#   conda env create -f environment.yml
+#   conda activate geve-sc
+#   python -m ipykernel install --user --name sctrans --display-name scTrans
+name: geve-sc
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - numpy=2.4.2
+  - pandas=2.3.3
+  - scipy=1.17.1
+  - matplotlib=3.10.8
+  - seaborn=0.13.2
+  - statsmodels=0.14.6
+  - scikit-learn=1.8.0
+  - h5py=3.15.1
+  - openpyxl=3.1.5
+  - pillow=12.1.1
+  - scanpy=1.11.5
+  - anndata=0.12.10
+  - python-igraph=1.0.0
+  - leidenalg=0.11.0
+  - umap-learn=0.5.11
+  - ipykernel=7.2.0
+  - nbconvert=7.17.0
+  - pip
+  - pip:
+      - scrublet==0.2.3   # upstream/01_QC.ipynb only

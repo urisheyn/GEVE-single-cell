@@ -1,0 +1,15 @@
+# large inputs (GEO / Zenodo)
+/adata
+*.h5ad
+# manuscript drafts and internal notes
+docs for paper/
+SOURCES_INVENTORY.md
+*.docx
+~$*
+# third-party files not redistributed (derived table in data/virion_proteome/)
+data/Erazo_Garcia_2025_Science/
+# upstream notebook outputs
+upstream/figures/
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
